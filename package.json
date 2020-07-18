@@ -1,0 +1,31 @@
+{
+  "name": "psdl",
+  "version": "1.0.0",
+  "description": "nopaystation browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0rmancodes/psdl.git"
+  },
+  "keywords": [
+    "psdl",
+    "playstation",
+    "downloader",
+    "nopaystation"
+  ],
+  "author": "n0rmancodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0rmancodes/psdl/issues"
+  },
+  "homepage": "https://github.com/n0rmancodes/psdl#readme",
+  "dependencies": {
+    "g-i-s": "^2.1.6",
+    "needle": "^2.5.0",
+    "node-tsv-json": "^0.2.1",
+    "tsv-json": "^1.0.0"
+  }
+}
